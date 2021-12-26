@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Storage
+*.csv
+*.pkl
+*.txt
